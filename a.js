@@ -3,7 +3,7 @@ const TelegramBot = require('node-telegram-bot-api');
 // Replace these values with your credentials
 const BOT_TOKEN = "7809481260:AAHBUX4j2_xlwwfIxvuzQIu2dlQDcENvA74";
 const USER_ID = 6033462267;
-const GROUP_CHAT_ID = -4619155756;
+const GROUP_CHAT_ID = -4783624680;
 
 // Create a bot instance
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
